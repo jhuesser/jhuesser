@@ -9,23 +9,17 @@ permissions:
   contents: write
   
 jobs:
-  pull_blog_rss:
-    name: Update with latest blog posts
+  readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
+      - uses: actions/checkout@v3
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
         with:
-          feed_url: https://jhuesser.ch/feed
-          count: 6 # default 5
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'rss-updater'
-            git config --global user.email 'git-rss-updater@jhuesser.ch'
-            git add .
-            git diff --quiet --cached || git commit -m "Update RSS feed"    
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          file: 'README.md'
+          format: '- ${day} ${monthlong} - [${title}](${url})'
+          timezone: 'Europe/Zurich'
+          url: |
+            https://jhuesser.ch/feed.xml
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
