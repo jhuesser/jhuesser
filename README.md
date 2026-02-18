@@ -95,8 +95,8 @@ Serving as Second Lieutenant in the Command Support Branch of the Swiss Civil Pr
 
 ## 📚 Latest Blog Posts
 
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- feed start -->
+<!-- feed end -->
 
 ---
 
