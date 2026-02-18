@@ -22,12 +22,12 @@ I'm a 28 year old Swiss IT system engineer passionate about infrastructure, secu
 ## 🛠️ My Professional Tech Stack
 
 ### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![rocky](https://img.shields.io/badge/Rocky-10B981?style=flat-square&logo=rockylinux&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ---
 
 ### 🏗️ Virtualization & Cloud Platforms
-![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-607078?style=flat-square&logo=vmware&logoColor=white) ![VMware Cloud Director](https://img.shields.io/badge/VMware%20Cloud%20Director-607078?style=flat-square&logo=vmware&logoColor=white) ![VMware NSX-T](https://img.shields.io/badge/NSX--T-607078?style=flat-square&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-F07623?style=flat-square&logo=proxmox&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-607078?style=flat-square&logo=vmware&logoColor=white) ![VMware Cloud Director](https://img.shields.io/badge/VMware%20Cloud%20Director-607078?style=flat-square&logo=vmware&logoColor=white) ![VMware NSX-T](https://img.shields.io/badge/NSX--T-607078?style=flat-square&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-F07623?style=flat-square&logo=proxmox&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Exoscale](https://img.shields.io/badge/Exoscale-DA291C?style=flat-square&logo=exoscale&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -37,12 +37,12 @@ I'm a 28 year old Swiss IT system engineer passionate about infrastructure, secu
 ---
 
 ### 🌐 Networking & Security
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white) ![OPNsense](https://img.shields.io/badge/OPNsense-E44A20?style=flat-square&logo=opnsense&logoColor=white) ![Ubiquiti UniFi](https://img.shields.io/badge/Ubiquiti%20UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white) ![PowerDNS](https://img.shields.io/badge/PowerDNS-F37021?style=flat-square) ![Bind9](https://img.shields.io/badge/Bind9-F37021?style=flat-square) ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=OpenVPN&logoColor=white) ![IPSEC](https://img.shields.io/badge/IPSEC%20VPNs-9e9e9e?style=flat-square) ![SMTP](https://img.shields.io/badge/E--Mail%20%2F%20SMTP-6D4AFF?style=flat-square)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white) ![OPNsense](https://img.shields.io/badge/OPNsense-E44A20?style=flat-square&logo=opnsense&logoColor=white) ![Ubiquiti UniFi](https://img.shields.io/badge/Ubiquiti%20UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white) ![PowerDNS](https://img.shields.io/badge/PowerDNS-F37021?style=flat-square) ![Bind9](https://img.shields.io/badge/Bind9-F37021?style=flat-square) ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=OpenVPN&logoColor=white) ![IPSEC](https://img.shields.io/badge/IPSEC%20VPNs-9e9e9e?style=flat-square) ![SMTP](https://img.shields.io/badge/E--Mail%20%2F%20SMTP-6D4AFF?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
 
 ### 🔐 Identity & Directory
-![Active Directory](https://img.shields.io/badge/Active%20Directory-009dff?style=flat-square) ![Microsoft Exchange](https://img.shields.io/badge/Microsoft%20Exchange-0072C6?style=flat-square) ![Authentik](https://img.shields.io/badge/Authentik-FF4F00?style=flat-square) ![OpenID](https://img.shields.io/badge/OpenID-F78C40?style=flat-square&logo=OpenID&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-009dff?style=flat-square) ![Microsoft Exchange](https://img.shields.io/badge/Microsoft%20Exchange-0072C6?style=flat-square) ![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=flat-square&logo=authentik&logoColor=white) ![OpenID](https://img.shields.io/badge/OpenID-F78C40?style=flat-square&logo=OpenID&logoColor=white)
 
 ---
 
@@ -67,12 +67,12 @@ I'm a 28 year old Swiss IT system engineer passionate about infrastructure, secu
 ---
 
 ### 💻  Endpoint Management
-![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=flat-square&logo=chocolatey&logoColor=white) ![PDQ Deploy & Inventory](https://img.shields.io/badge/PDQ%20Deploy%20%26%20Inventory-231F20?style=flat-square&logo=pdq&logoColor=white)
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=flat-square&logo=chocolatey&logoColor=white) ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white) ![PDQ Deploy & Inventory](https://img.shields.io/badge/PDQ%20Deploy%20%26%20Inventory-231F20?style=flat-square&logo=pdq&logoColor=white)
 
 ---
 
 ### 👨‍💻 Development & Platforms
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
 ---
 
@@ -82,7 +82,13 @@ I'm a 28 year old Swiss IT system engineer passionate about infrastructure, secu
 ---
 
 ### 🧩 Collaboration
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=JetBrains&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Opsgenie](https://img.shields.io/badge/Opsgenie-172B4D?style=flat-square&logo=opsgenie&logoColor=white) ![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=JetBrains&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+
+---
+
+### 🏡 HomeLab
+![Plex](https://img.shields.io/badge/Plex-EBAF00?style=flat-square&logo=Plex&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white) ![Synology](https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=synology&logoColor=white) ![Postfix](https://img.shields.io/badge/Postfix-ffdd8c?style=flat-square&logo=postfix&logoColor=white) ![Dovecot](https://img.shields.io/badge/Dovecot-54BCAB?style=flat-square&logo=dovecot&logoColor=white) ![Roundcube](https://img.shields.io/badge/Roundcube-37BEFF?style=flat-square&logo=roundcube&logoColor=white) ![LXC](https://img.shields.io/badge/Linux%20Containers-333333?style=flat-square&logo=linuxcontainers&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=flat-square&logo=nginxproxymanager&logoColor=white) ![Paperless-ngx](https://img.shields.io/badge/Paperless--ngx-17541F?style=flat-square&logo=paperlessngx&logoColor=white)
+
 
 ---
 
@@ -104,7 +110,7 @@ I'm a 28 year old Swiss IT system engineer passionate about infrastructure, secu
 ---
 
 ### 🎛️ Live Switching & Recording
-![ATEM Television Studio HD8 ISO](https://img.shields.io/badge/ATEM%20Television%20Studio%20HD8%20ISO-111111?style=flat&logo=blackmagicdesign) ![HyperDeck Studio Mini HD](https://img.shields.io/badge/HyperDeck%20Studio%20Mini%20HD-111111?style=flat&logo=blackmagicdesign)
+![ATEM Television Studio HD8 ISO](https://img.shields.io/badge/ATEM%20Television%20Studio%20HD8%20ISO-111111?style=flat&logo=blackmagicdesign) ![HyperDeck Studio Mini HD](https://img.shields.io/badge/HyperDeck%20Studio%20Mini%20HD-111111?style=flat&logo=blackmagicdesign) ![OBS](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat-square&logo=obsstudio&logoColor=whites)
 
 ---
 
