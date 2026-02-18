@@ -1,6 +1,5 @@
 name: Blog post workflow
 on:
-  push:
   workflow_dispatch:
   schedule:
     # Runs every day at 9am UTC
@@ -20,6 +19,6 @@ jobs:
           format: '- ${day} ${monthlong} - [${title}](${url})'
           timezone: 'Europe/Zurich'
           url: |
-            https://jhuesser.ch/feed.xml
+            https://jhuesser.ch/blog/feed
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
