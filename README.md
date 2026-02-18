@@ -49,7 +49,7 @@ I'm a 28 year old Swiss IT system engineer passionate about infrastructure, secu
 ![Røde Microphones](https://img.shields.io/badge/Røde%20Microphones-ad9970?style=flat-square&&logoColor=white)  ![Rødecaster](https://img.shields.io/badge/Rødecaster%20Pro%202-ad9970?style=flat-square&&logoColor=white)
 
 ### 💡 Lights
-![Aputure](https://img.shields.io/badge/Aputure%20Lights-D80B2A?style=flat-square&logo=JetBrains&logoColor=white)
+![Aputure](https://img.shields.io/badge/Aputure%20Lights-D80B2A?style=flat-square&&logoColor=white)
 
 ### 🎛️ Live Switching & Recording
 ![ATEM Television Studio HD8 ISO](https://img.shields.io/badge/ATEM%20Television%20Studio%20HD8%20ISO-111111?style=flat&logo=blackmagicdesign) ![HyperDeck Studio Mini HD](https://img.shields.io/badge/HyperDeck%20Studio%20Mini%20HD-111111?style=flat&logo=blackmagicdesign)
