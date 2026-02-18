@@ -111,3 +111,8 @@ Whether you need infrastructure expertise, have a creative project in mind, or j
 ---
 
 </div>
+
+<!-- feed start -->
+- 3 November - [Rethinking Password Policies](https://jhuesser.ch/2024/11/03/rethinking-password-policies/)
+- 13 October - [Phishing simulations are ineffective](https://jhuesser.ch/2024/10/13/phishing-simulations-are-ineffective/)
+<!-- feed end -->
